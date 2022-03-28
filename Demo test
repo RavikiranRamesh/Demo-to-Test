@@ -1,0 +1,6 @@
+Public class test{
+@Test
+Public void test(){
+System.out.println("demo executed succesfully");
+}
+}
